@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1576240211 source:d:\netfo\documents\ludus\c\sdl_nostress\main.c
+	"SDL.h"
+	"SDL_image.h"
+	<stdio.h>
+	<math.h>
+
