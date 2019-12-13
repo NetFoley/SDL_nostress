@@ -16,6 +16,8 @@ struct buche{
     int nVie;
 }buche;
 
+//PROJET DE VALENTIN FONDERFLICK F22
+
 int main(int argc, char *argv[]) {
 
     SDL_Window * window;
